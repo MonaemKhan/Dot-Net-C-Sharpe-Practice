@@ -13,3 +13,5 @@ C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Variable\Variable\obj\
 C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Variable\Variable\obj\Debug\net6.0\Variable.pdb
 C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Variable\Variable\obj\Debug\net6.0\Variable.genruntimeconfig.cache
 C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Variable\Variable\obj\Debug\net6.0\ref\Variable.dll
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Variable\Variable\bin\Debug\net6.0\MyCalculator.dll
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Variable\Variable\obj\Debug\net6.0\Variable.csproj.CopyComplete

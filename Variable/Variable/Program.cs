@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using MyCalculator;
 
 namespace variable
 {
@@ -61,18 +62,24 @@ namespace variable
             int[] num = new int[] { 1, 2, 3 ,4};
             Console.WriteLine("Sum >> " + num.Sum());*/
 
-            int[,] num = { { 1, 2, 3 }, { 4, 5, 6 } };
-            /*foreach (int i in num)
-            {
-                Console.WriteLine(i);
-            }*/
-            for(int i = 0; i < num.GetLength(0); i++)
-            {
-                for(int j=0; j < num.GetLength(1); j++)
-                {
-                    Console.WriteLine(num[i, j]);
-                }
-            }
+            //int[,] num = { { 1, 2, 3 }, { 4, 5, 6 } };
+            ///*foreach (int i in num)
+            //{
+            //    Console.WriteLine(i);
+            //}*/
+            //for (int i = 0; i < num.GetLength(0); i++)
+            //{
+            //    for (int j = 0; j < num.GetLength(1); j++)
+            //    {
+            //        Console.WriteLine(num[i, j]);
+            //    }
+            //}
+
+            Calculator cal = new Calculator();
+
+            Console.WriteLine(cal.div(7, 8));
         }
     }
 }
+
+
