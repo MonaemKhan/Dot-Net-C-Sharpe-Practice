@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OOP
+{
+    public class Class1:interface_
+    {
+        public override int total() { return 1000; }
+    }
+}
