@@ -1,0 +1,47 @@
+﻿@model IEnumerable<MVC_PROJECT_PRACTICE.Models.Thesis>
+
+@{
+    ViewData["Title"] = "ThesisIndex";
+}
+
+<h1>ThesisIndex</h1>
+
+<p>
+    <a asp-action="ThesisCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ThesisName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThesisTeacherId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThesisStudentId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThesisName)
+            </td>
+            <td>
+                    @item.Teacher?.TeacherName
+            </td>
+            <td>
+                @item.Student?.StudentName
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ThesisID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ThesisID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ThesisID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

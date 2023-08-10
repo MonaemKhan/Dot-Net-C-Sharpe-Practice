@@ -1,0 +1,96 @@
+﻿@model IEnumerable<MVC_PROJECT_PRACTICE.Models.Teacher>
+
+@{
+    ViewData["Title"] = "TeacherIndex";
+}
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a asp-area="" asp-controller="Home" asp-action="Index">Others Link</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Teacher Details</li>
+    </ol>
+</nav>
+
+<div class="card border-2 shadow p-3">
+    <div class="d-flex mb-2">
+        <h1 class="col-10 text-center">Teacher Details</h1>
+
+        <p class="col-2 mt-3">
+            <a asp-action="TeacherCreate">Create New</a>
+        </p>
+    </div>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.TeacherName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TeacherEmail)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TeacherContact)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TeacherFaculty)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TeacherDepartment)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TeacherJoinDate)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TeacherName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TeacherEmail)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TeacherContact)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TeacherFaculty)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TeacherDepartment)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TeacherJoinDate)
+                    </td>
+                    <td>
+                        <a asp-action="TeacherEdit" asp-controller="Teacher" asp-route-id="@item.TeacherId"> <i class="bi bi-pencil-fill"></i> </a> |
+                        <a asp-action="TeacherDetails" asp-controller="Teacher" asp-route-id="@item.TeacherId"><i class="bi bi-person-lines-fill"></i></a> |
+                        <a data-bs-toggle="modal" data-bs-target="#exampleModal"><i class="bi bi-archive-fill text-primary"></i></a>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLabel">Confarmation Of Delete</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        Do you want to <span class="text-danger">delete</span> the record of @Html.DisplayFor(modelItem => item.TeacherName)
+                                    </div>
+                                    <div class="modal-footer">
+                                        <span class="h-25 text-decoration-none border-2 btn-danger p-2 rounded-3" data-bs-dismiss="modal">Close</span>
+                                        <a class="h-25 text-decoration-none border-2 btn-success p-2 rounded-3" asp-action="TeacherDelete" asp-controller="Teacher" asp-route-id="@item.TeacherId">Save changes</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

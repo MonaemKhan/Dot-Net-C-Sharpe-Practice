@@ -1,0 +1,80 @@
+﻿@model MVC_PROJECT_PRACTICE.Models.Student
+
+@{
+    ViewData["Title"] = "StudentEdit";
+}
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a asp-area="" asp-controller="Home" asp-action="Index">Others Link</a></li>
+        <li class="breadcrumb-item"><a asp-area="" asp-controller="Student" asp-action="StudentIndex">Student Details</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Edit Student's Information</li>
+    </ol>
+</nav>
+<div class="d-flex mb-2">
+    <h1 class="col-12 text-center">Edit @Model.StudentName 's Information</h1>
+</div>
+<hr />
+<div class="row d-flex align-items-center justify-content-center">
+    <div class="card shadow p-3">
+        <form asp-action="StudentEdit" asp-controller="Student" asp-route-id="@Model.StudentRegNo">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="StudentRegNo" />
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentName" class="control-label col-3"></label>
+                <input asp-for="StudentName" class="form-control" />
+                <span asp-validation-for="StudentName" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentEmail" class="control-label col-3"></label>
+                <input asp-for="StudentEmail" class="form-control" />
+                <span asp-validation-for="StudentEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentContact" class="control-label col-3"></label>
+                <input asp-for="StudentContact" class="form-control" />
+                <span asp-validation-for="StudentContact" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentVillage" class="control-label col-3"></label>
+                <input asp-for="StudentVillage" class="form-control" />
+                <span asp-validation-for="StudentVillage" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentCity" class="control-label col-3"></label>
+                <input asp-for="StudentCity" class="form-control" />
+                <span asp-validation-for="StudentCity" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentDivision" class="control-label col-3"></label>
+                <input asp-for="StudentDivision" class="form-control" />
+                <span asp-validation-for="StudentDivision" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentFaculty" class="control-label col-3"></label>
+                <input asp-for="StudentFaculty" class="form-control" />
+                <span asp-validation-for="StudentFaculty" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentDepartment" class="control-label col-3"></label>
+                <input asp-for="StudentDepartment" class="form-control" />
+                <span asp-validation-for="StudentDepartment" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentCredite" class="control-label col-3"></label>
+                <input asp-for="StudentCredite" class="form-control" />
+                <span asp-validation-for="StudentCredite" class="text-danger"></span>
+            </div>
+            <div class="form-group col-12 text-center mt-2">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="StudentIndex">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

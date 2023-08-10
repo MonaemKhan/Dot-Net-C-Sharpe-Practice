@@ -1,0 +1,131 @@
+﻿@model MVC_PROJECT_PRACTICE.Models.Student
+
+@{
+    ViewData["Title"] = "StudentCreate";
+}
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a asp-area="" asp-controller="Home" asp-action="Index">Others Link</a></li>
+        <li class="breadcrumb-item"><a asp-area="" asp-controller="Student" asp-action="StudentIndex">Student Details</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Create New Student</li>
+    </ol>
+</nav>
+
+
+<div class="d-flex mb-2">
+    <h1 class="col-12 text-center">Create New Student</h1>
+</div>
+<hr />
+<div class="row d-flex align-items-center justify-content-center">
+    <div class="card shadow p-3">
+        <form asp-action="StudentCreate" class="mt-2">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentRegNo" class="control-label col-3"></label>
+                <input asp-for="StudentRegNo" class="form-control" />
+                <span asp-validation-for="StudentRegNo" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentName" class="control-label col-3"></label>
+                <input asp-for="StudentName" class="form-control" />
+                <span asp-validation-for="StudentName" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentEmail" class="control-label col-3"></label>
+                <input asp-for="StudentEmail" class="form-control" />
+                <span asp-validation-for="StudentEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentContact" class="control-label col-3"></label>
+                <input asp-for="StudentContact" class="form-control" />
+                <span asp-validation-for="StudentContact" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentVillage" class="control-label col-3"></label>
+                <input asp-for="StudentVillage" class="form-control" />
+                <span asp-validation-for="StudentVillage" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentCity" class="control-label col-3"></label>
+                <input asp-for="StudentCity" class="form-control" />
+                <span asp-validation-for="StudentCity" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentDivision" class="control-label col-3"></label>
+                <input asp-for="StudentDivision" class="form-control" />
+                <span asp-validation-for="StudentDivision" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentFaculty" class="control-label col-3"></label>
+                <select id="facultySelect" onchange="changeDepartmentOptions()" asp-for="StudentFaculty" class="form-select" aria-label="Default select example">
+                    <option selected>Select A Faculty</option>
+                    <option value="Engg">Engg.</option>
+                    <option value="BBA">BBA</option>
+                </select>
+                <span asp-validation-for="StudentFaculty" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentDepartment" class="control-label col-3"></label>
+                <select id="departmentSelect" asp-for="StudentFaculty" class="form-select" aria-label="Default select example">
+                    <option value="- - -">- - -</option>
+                </select>
+                <span asp-validation-for="StudentDepartment" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex mt-2">
+                <label asp-for="StudentCredite" class="control-label col-3"></label>
+                <input asp-for="StudentCredite" class="form-control" />
+                <span asp-validation-for="StudentCredite" class="text-danger"></span>
+            </div>
+            <div class="form-group col-12 text-center mt-2">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="StudentIndex">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script type="text/javascript">
+        function changeDepartmentOptions() {
+            const facultySelect = document.getElementById("facultySelect");
+            const departmentSelect = document.getElementById("departmentSelect");
+
+            // Clear existing options
+            departmentSelect.innerHTML = "";
+
+            if (facultySelect.value === "Engg") {
+                // Add options for Engineering departments
+                const cseOption = document.createElement("option");
+                cseOption.value = "CSE";
+                cseOption.text = "CSE";
+                departmentSelect.appendChild(cseOption);
+
+                const eeeOption = document.createElement("option");
+                eeeOption.value = "EEE";
+                eeeOption.text = "EEE";
+                departmentSelect.appendChild(eeeOption);
+            } else if (facultySelect.value === "BBA") {
+                // Add options for BBA departments
+                const thmOption = document.createElement("option");
+                thmOption.value = "THM";
+                thmOption.text = "THM";
+                departmentSelect.appendChild(thmOption);
+
+                const mgtOption = document.createElement("option");
+                mgtOption.value = "MGT";
+                mgtOption.text = "MGT";
+                departmentSelect.appendChild(mgtOption);
+            } else {
+                // Default option when no faculty is selected
+                const defaultOption = document.createElement("option");
+                defaultOption.value = "- - -";
+                defaultOption.text = "- - -";
+                departmentSelect.appendChild(defaultOption);
+            }
+        }
+    </script>
+}

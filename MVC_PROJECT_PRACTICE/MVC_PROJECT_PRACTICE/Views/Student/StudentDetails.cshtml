@@ -1,0 +1,104 @@
+﻿@model MVC_PROJECT_PRACTICE.Models.Student
+
+@{
+    ViewData["Title"] = "StudentDetails";
+}
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a asp-area="" asp-controller="Home" asp-action="Index">Others Link</a></li>
+        <li class="breadcrumb-item"><a asp-area="" asp-controller="Student" asp-action="StudentIndex">Student Details</a></li>
+        <li class="breadcrumb-item active" aria-current="page">View Student Information</li>
+    </ol>
+</nav>
+<div class="d-flex mb-2">
+    <h1 class="col-12 text-center">View @Model.StudentName 's Information</h1>
+</div>
+    <div class="card shadow p-3 d-flex align-items-center justify-content-center">
+        <div class="ps-5">
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.StudentName)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.StudentName)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.StudentEmail)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.StudentEmail)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.StudentContact)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.StudentContact)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.StudentVillage)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.StudentVillage)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.StudentCity)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.StudentCity)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.StudentDivision)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.StudentDivision)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.StudentFaculty)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.StudentFaculty)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.StudentDepartment)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.StudentDepartment)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.StudentCredite)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.StudentCredite)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.CreatedAt)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.CreatedAt)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.UpdatedAt)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.UpdatedAt)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.CreatedBy)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.CreatedBy)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.UpdatedBy)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.UpdatedBy)
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+<div>
+    <a asp-action="StudentEdit" asp-route-id="@Model?.StudentRegNo">Edit</a> |
+    <a asp-action="StudentIndex">Back to List</a>
+</div>

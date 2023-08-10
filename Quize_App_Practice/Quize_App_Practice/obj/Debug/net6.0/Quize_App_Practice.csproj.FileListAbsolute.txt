@@ -1,0 +1,15 @@
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\bin\Debug\net6.0\Quize_App_Practice.exe
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\bin\Debug\net6.0\Quize_App_Practice.deps.json
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\bin\Debug\net6.0\Quize_App_Practice.runtimeconfig.json
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\bin\Debug\net6.0\Quize_App_Practice.dll
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\bin\Debug\net6.0\Quize_App_Practice.pdb
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\obj\Debug\net6.0\Quize_App_Practice.csproj.AssemblyReference.cache
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\obj\Debug\net6.0\Quize_App_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\obj\Debug\net6.0\Quize_App_Practice.AssemblyInfoInputs.cache
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\obj\Debug\net6.0\Quize_App_Practice.AssemblyInfo.cs
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\obj\Debug\net6.0\Quize_App_Practice.csproj.CoreCompileInputs.cache
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\obj\Debug\net6.0\Quize_App_Practice.dll
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\obj\Debug\net6.0\refint\Quize_App_Practice.dll
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\obj\Debug\net6.0\Quize_App_Practice.pdb
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\obj\Debug\net6.0\Quize_App_Practice.genruntimeconfig.cache
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\Quize_App_Practice\Quize_App_Practice\obj\Debug\net6.0\ref\Quize_App_Practice.dll
