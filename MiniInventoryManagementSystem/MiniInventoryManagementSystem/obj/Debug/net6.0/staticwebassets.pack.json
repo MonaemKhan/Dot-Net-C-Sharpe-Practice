@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\MiniInventoryManagementSystem.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\MiniInventoryManagementSystem\\MiniInventoryManagementSystem\\wwwroot\\CustomStyle\\SelectBox\\SelectBoxDesign.JS",
+      "PackagePath": "staticwebassets\\CustomStyle\\SelectBox\\SelectBoxDesign.JS"
+    },
+    {
+      "Id": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\MiniInventoryManagementSystem\\MiniInventoryManagementSystem\\wwwroot\\CustomStyle\\SelectBox\\SelectBoxDesign.css",
+      "PackagePath": "staticwebassets\\CustomStyle\\SelectBox\\SelectBoxDesign.css"
+    },
+    {
       "Id": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\MiniInventoryManagementSystem\\MiniInventoryManagementSystem\\wwwroot\\DataTablePrint\\DataTable_JQuery.js",
       "PackagePath": "staticwebassets\\DataTablePrint\\DataTable_JQuery.js"
     },

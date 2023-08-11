@@ -80,12 +80,48 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/khanm/OneDrive/Desktop/Dot-Net-C-Sharpe-Practice/MiniInventoryManagementSystem/MiniInventoryManagementSystem/Views/SalesMan/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNNYW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/khanm/OneDrive/Desktop/Dot-Net-C-Sharpe-Practice/MiniInventoryManagementSystem/MiniInventoryManagementSystem/Views/SalesMan/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNNYW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/khanm/OneDrive/Desktop/Dot-Net-C-Sharpe-Practice/MiniInventoryManagementSystem/MiniInventoryManagementSystem/Views/SalesMan/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNNYW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/khanm/OneDrive/Desktop/Dot-Net-C-Sharpe-Practice/MiniInventoryManagementSystem/MiniInventoryManagementSystem/Views/SalesMan/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNNYW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/khanm/OneDrive/Desktop/Dot-Net-C-Sharpe-Practice/MiniInventoryManagementSystem/MiniInventoryManagementSystem/Views/SalesMan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNNYW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/khanm/OneDrive/Desktop/Dot-Net-C-Sharpe-Practice/MiniInventoryManagementSystem/MiniInventoryManagementSystem/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/khanm/OneDrive/Desktop/Dot-Net-C-Sharpe-Practice/MiniInventoryManagementSystem/MiniInventoryManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/khanm/OneDrive/Desktop/Dot-Net-C-Sharpe-Practice/MiniInventoryManagementSystem/MiniInventoryManagementSystem/Views/Supplyer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGx5ZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/khanm/OneDrive/Desktop/Dot-Net-C-Sharpe-Practice/MiniInventoryManagementSystem/MiniInventoryManagementSystem/Views/Supplyer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGx5ZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/khanm/OneDrive/Desktop/Dot-Net-C-Sharpe-Practice/MiniInventoryManagementSystem/MiniInventoryManagementSystem/Views/Supplyer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGx5ZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/khanm/OneDrive/Desktop/Dot-Net-C-Sharpe-Practice/MiniInventoryManagementSystem/MiniInventoryManagementSystem/Views/Supplyer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGx5ZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/khanm/OneDrive/Desktop/Dot-Net-C-Sharpe-Practice/MiniInventoryManagementSystem/MiniInventoryManagementSystem/Views/_ViewImports.cshtml]

@@ -3,7 +3,8 @@
 @{
     ViewData["Title"] = $"Details of {Model.CustomerName}";
 }
-
+<link rel="stylesheet" href=@Url.Content("~/DataTablePrint/datatableprint.css")>
+<link rel="stylesheet" href=@Url.Content("~/DataTablePrint/datatableprint_jQuery.css")>
 <style>
     #CustomDataTable_filter {
         display: none;
@@ -79,6 +80,10 @@
     </div>
 
 @section Scripts {
+    <script src=@Url.Content("~/DataTablePrint/DataTable_JQuery.js")></script>
+    <script src=@Url.Content("~/DataTablePrint/DataTable_JQuery2.js")></script>
+    <script src=@Url.Content("~/DataTablePrint/DataTable_JQuery3.js")></script>
+    <script src=@Url.Content("~/DataTablePrint/Datatable_JQuery4.js")></script>
     <script>
         $(document).ready(function () {
             $('#CustomDataTable').DataTable({

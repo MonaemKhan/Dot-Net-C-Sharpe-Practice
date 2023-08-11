@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<MiniInventoryManagementSystem.Models.Product>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "View Product";
 }
 
 <style>
@@ -31,10 +31,16 @@
 </style>
 
 <div class="card p-5">
-    <h1 class="text-center">Index</h1>
+    <h1 class="text-center">All Record's of Product</h1>
     <table class="table table-hover">
         <thead>
             <tr>
+                <th>
+                    SN
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ProductId)
+                </th>
                 <th>
                     @Html.DisplayNameFor(model => model.ProductName)
                 </th>
@@ -45,9 +51,21 @@
             </tr>
         </thead>
         <tbody>
+            @{
+                int i = 1;
+            }
             @foreach (var item in Model)
             {
                 <tr>
+                    <td>
+                        @i
+                    </td>
+                    @{
+                        i++;
+                    }
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductId)
+                    </td>
                     <td>
                         @Html.DisplayFor(modelItem => item.ProductName)
                     </td>

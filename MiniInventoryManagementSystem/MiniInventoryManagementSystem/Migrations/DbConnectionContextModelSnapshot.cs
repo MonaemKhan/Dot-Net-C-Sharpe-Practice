@@ -120,8 +120,8 @@ namespace MiniInventoryManagementSystem.Migrations
 
                     b.Property<string>("SalesManEmail")
                         .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
+                        .HasMaxLength(30)
+                        .HasColumnType("nvarchar(30)");
 
                     b.Property<string>("SalesManJoiningDate")
                         .IsRequired()
