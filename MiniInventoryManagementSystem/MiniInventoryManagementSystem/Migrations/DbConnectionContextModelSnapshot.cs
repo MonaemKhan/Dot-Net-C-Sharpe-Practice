@@ -95,6 +95,66 @@ namespace MiniInventoryManagementSystem.Migrations
                     b.ToTable("ProductTable");
                 });
 
+            modelBuilder.Entity("MiniInventoryManagementSystem.Models.Sales", b =>
+                {
+                    b.Property<int>("SalesId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SalesId"), 1L, 1);
+
+                    b.Property<string>("SalesDate")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
+
+                    b.Property<int>("Sales_CustomerId")
+                        .HasColumnType("int")
+                        .HasColumnName("CustomerId");
+
+                    b.Property<int>("Sales_SalesManId")
+                        .HasColumnType("int")
+                        .HasColumnName("SalesManID");
+
+                    b.HasKey("SalesId");
+
+                    b.HasIndex("Sales_CustomerId");
+
+                    b.HasIndex("Sales_SalesManId");
+
+                    b.ToTable("SalesTable");
+                });
+
+            modelBuilder.Entity("MiniInventoryManagementSystem.Models.SalesDetails", b =>
+                {
+                    b.Property<int>("SalesDetailsId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SalesDetailsId"), 1L, 1);
+
+                    b.Property<double>("SalesDetailsPrice")
+                        .HasColumnType("float");
+
+                    b.Property<int>("SalesDetailsQuantity")
+                        .HasColumnType("int");
+
+                    b.Property<int>("SalesDetails_ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("SalesDetails_SalesId")
+                        .HasColumnType("int")
+                        .HasColumnName("SalesId");
+
+                    b.HasKey("SalesDetailsId");
+
+                    b.HasIndex("SalesDetails_ProductId");
+
+                    b.HasIndex("SalesDetails_SalesId");
+
+                    b.ToTable("SalesDetailsTable");
+                });
+
             modelBuilder.Entity("MiniInventoryManagementSystem.Models.SalesMan", b =>
                 {
                     b.Property<int>("SalesManId")
@@ -185,6 +245,44 @@ namespace MiniInventoryManagementSystem.Migrations
                         .IsRequired();
 
                     b.Navigation("Product_Catagory");
+                });
+
+            modelBuilder.Entity("MiniInventoryManagementSystem.Models.Sales", b =>
+                {
+                    b.HasOne("MiniInventoryManagementSystem.Models.Customer", "Sales_Customer")
+                        .WithMany()
+                        .HasForeignKey("Sales_CustomerId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("MiniInventoryManagementSystem.Models.SalesMan", "Sales_SalesMan")
+                        .WithMany()
+                        .HasForeignKey("Sales_SalesManId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Sales_Customer");
+
+                    b.Navigation("Sales_SalesMan");
+                });
+
+            modelBuilder.Entity("MiniInventoryManagementSystem.Models.SalesDetails", b =>
+                {
+                    b.HasOne("MiniInventoryManagementSystem.Models.Product", "SalesDetails_Product")
+                        .WithMany()
+                        .HasForeignKey("SalesDetails_ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("MiniInventoryManagementSystem.Models.Sales", "SalesDetails_Sales")
+                        .WithMany()
+                        .HasForeignKey("SalesDetails_SalesId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("SalesDetails_Product");
+
+                    b.Navigation("SalesDetails_Sales");
                 });
 #pragma warning restore 612, 618
         }

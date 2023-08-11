@@ -9,25 +9,27 @@ namespace MiniInventoryManagementSystem.Models
         [Key]
         [Required]
         [DisplayName("Sales Details Id")]
-        public int SalesId { get; set; }
+        public int SalesDetailsId { get; set; }
 
         [Required]
         [DisplayName("Sales Price")]
-        public double DalesDetailsPrice { get; set; }
+        public double SalesDetailsPrice { get; set; }
 
         [Required]
         [DisplayName("Sales Quantity")]
-        public int DalesDetailsQuantity { get; set; }
+        public int SalesDetailsQuantity { get; set; }
 
         [Required]
         [DisplayName("Sales Id")]
         [ForeignKey("SalesId")]
         [Column("SalesId")]
+        public int SalesDetails_SalesId { get; set; }
         public Sales SalesDetails_Sales { get; set; }
 
         [Required]
-        [DisplayName("Product Name")]
+        [DisplayName("Product Id")]
         [ForeignKey("ProductId")]
-        public Product SalesDetails_ProductId { get; set; }
+        public int SalesDetails_ProductId { get; set; }
+        public Product SalesDetails_Product { get; set; }
     }
 }

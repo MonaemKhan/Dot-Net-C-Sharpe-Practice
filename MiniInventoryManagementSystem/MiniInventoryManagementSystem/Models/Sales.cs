@@ -12,15 +12,17 @@ namespace MiniInventoryManagementSystem.Models
         public int SalesId { get; set; }
 
         [Required]
-        [DisplayName("SalesMan's Name")]
+        [DisplayName("SalesMan's Id")]
         [ForeignKey("SalesManID")]
         [Column("SalesManID")]
+        public int Sales_SalesManId { get; set; }
         public SalesMan Sales_SalesMan { get; set; }
 
         [Required]
-        [DisplayName("Customer's Name")]
+        [DisplayName("Customer's Id")]
         [ForeignKey("CustomerId")]
         [Column("CustomerId")]
+        public int Sales_CustomerId { get; set; }
         public Customer Sales_Customer { get; set; }
 
         [Required]

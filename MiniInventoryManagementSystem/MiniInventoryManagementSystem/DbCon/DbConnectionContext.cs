@@ -16,8 +16,10 @@ namespace MiniInventoryManagementSystem.DbCon
         public DbSet<Customer> CustomerTable { set; get; }
         public DbSet<Supplyer> SupplyerTable { set; get; }
         public DbSet<SalesMan> SalesManTable { set; get; }
-        //public DbSet<Sales> SalesTable { set;get;}
-        //public DbSet<SalesDetails> SalesDetailsTable { set;get;}
+        public DbSet<Sales> SalesTable { set; get; }
+        public DbSet<SalesDetails> SalesDetailsTable { set; get; }
+        public DbSet<MiniInventoryManagementSystem.Models.SupportClass.Sales_and_SalesDetails> Sales_and_SalesDetails { get; set; }
+        //public DbSet<Sales_and_SalesDetails> sales_And_SalesDetailsTable { set; get; }
 
         //public DbSet<Purches> PurchesTable { set;get;}
         //public DbSet<PurchesDetails> PurchesDetailsTable { set;get;}

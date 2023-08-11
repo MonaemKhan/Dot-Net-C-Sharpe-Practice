@@ -1,0 +1,58 @@
+﻿@model MiniInventoryManagementSystem.Models.SalesDetails
+
+@{
+    ViewData["Title"] = "SalesAndSalesDetails";
+}
+
+<h1>SalesAndSalesDetails</h1>
+
+<h4>SalesDetails</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SalesDetails">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="SalesDetailsId" />
+            <div class="form-group">
+                <label asp-for="SalesDetailsPrice" class="control-label"></label>
+                <input asp-for="SalesDetailsPrice" class="form-control" />
+                <span asp-validation-for="SalesDetailsPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SalesDetailsQuantity" class="control-label"></label>
+                <input asp-for="SalesDetailsQuantity" class="form-control" />
+                <span asp-validation-for="SalesDetailsQuantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SalesDetails_SalesId" class="control-label"></label>
+                <select asp-for="SalesDetails_SalesId" class="form-control">
+                    <option value="@ViewBag.SalesDetails_SalesId">@ViewBag.SalesDetails_SalesId</option>
+                </select>
+                
+                <span asp-validation-for="SalesDetails_SalesId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SalesDetails_ProductId" class="control-label"></label>
+                <select asp-for="SalesDetails_ProductId" class="form-control">
+                    <option>Select SalesMan</option>
+                    @foreach (var item in ViewBag.ProductList)
+                    {
+                        <option value="@item.ProductId">@item.ProductName</option>
+                    }
+                </select>
+                <span asp-validation-for="SalesDetails_ProductId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Create">Back</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
