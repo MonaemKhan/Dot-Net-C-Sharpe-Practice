@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ImageUploadRetrive.Migrations
 {
     [DbContext(typeof(DbConnectionContext))]
-    [Migration("20230807191001_CreateStudentTableForImage")]
-    partial class CreateStudentTableForImage
+    [Migration("20230818123844_ImageTable")]
+    partial class ImageTable
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -25,22 +25,19 @@ namespace ImageUploadRetrive.Migrations
 
             modelBuilder.Entity("ImageUploadRetrive.Models.Student", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("ImageId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ImageId"), 1L, 1);
 
-                    b.Property<string>("ImagePath")
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<string>("ImageName")
+                        .HasColumnType("nvarchar(100)");
 
-                    b.Property<string>("Name")
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<string>("Title")
+                        .HasColumnType("nvarchar(50)");
 
-                    b.Property<int>("Standard")
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
+                    b.HasKey("ImageId");
 
                     b.ToTable("Students");
                 });

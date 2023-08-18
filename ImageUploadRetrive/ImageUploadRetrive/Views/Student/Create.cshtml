@@ -6,20 +6,21 @@
 
 <h1>Create</h1>
 
-<h4>Student</h4>
+<h4>ImageModel</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Create" enctype="multipart/form-data">
-            @* enctype="multipart/form-data" this thing requried for file save*@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="ImagePath" class="control-label"></label>
-                <input type="file" asp-for="ImagePath" name="PictureFile" class="form-control" onchange="PreviewImage()" id="FileUpload" accept="image/*" />
-                <span asp-validation-for="ImagePath" class="text-danger"></span>
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
             </div>
-            <div class="imgPreview-area mt-3" id="imgPreview">
-                <img src="~/images/eset_user.png" alt="img" id="UploadFile" class="img-fluid" style="width:50%; height:200px;" />
+            <div class="form-group">
+                <label asp-for="ImageFile" class="control-label"></label>
+                <input asp-for="ImageFile" accept="image/*" />
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
@@ -28,21 +29,10 @@
     </div>
 </div>
 
-<div>
+@*<div>
     <a asp-action="Index">Back to List</a>
-</div>
+</div>*@
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-
-    <script>
-        function PreviewImage() {
-            var reader = new FileReader();
-            reader.readAsDataURL(document.getElementById("FileUpload").files[0]);
-
-            reader.onload = function (event) {
-                document.getElementById("UploadFile").src = event.target.result;
-            }
-        }
-    </script>
 }

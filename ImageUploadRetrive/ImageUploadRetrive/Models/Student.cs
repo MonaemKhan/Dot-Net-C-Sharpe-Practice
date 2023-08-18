@@ -1,25 +1,25 @@
-﻿using System.ComponentModel;
+﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Web;
 
 namespace ImageUploadRetrive.Models
 {
     public class Student
     {
-        public int Id { get; set; }
+            [Key]
+            public int ImageId { get; set; }
 
-        [DisplayName("Student Name")]
-        [Required(ErrorMessage ="Name Requried")]
-        public string? Name { get; set; }
+            [Column(TypeName = "nvarchar(50)")]
+            public string? Title { get; set; }
 
-        [DisplayName("Student Class")]
-        [Required(ErrorMessage = "Class Requried")]
-        public int Standard { get; set;}
+            [Column(TypeName = "nvarchar(100)")]
+            [DisplayName("Image Name")]
+            public string? ImageName { get; set; }
 
-        [DisplayName("Chosse Image")]
-        [Required(ErrorMessage = "Image Location Requried")]
-        public string? ImagePath { get; set;}
-
-        public HttpPostedFileBase ImageFile { get; set;}
+            [NotMapped]
+            [DisplayName("Upload File")]
+            public IFormFile? ImageFile { get; set; }
     }
 }

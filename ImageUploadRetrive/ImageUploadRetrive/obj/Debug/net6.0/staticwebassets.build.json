@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1b5Upvz4I18kQ7F1rpstevSWmw90UglI3cp1FGI6T3Q=",
+  "Hash": "AZQ04c27OAzIkIpLmoStx/NzRVlDsp7jzLteXI2lBHs=",
   "Source": "ImageUploadRetrive",
   "BasePath": "_content/ImageUploadRetrive",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\ImageUploadRetrive\\ImageUploadRetrive\\wwwroot\\images\\photo-3231533631.jpg",
+      "SourceId": "ImageUploadRetrive",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\ImageUploadRetrive\\ImageUploadRetrive\\wwwroot\\",
+      "BasePath": "_content/ImageUploadRetrive",
+      "RelativePath": "images/photo-3231533631.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\photo-3231533631.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\ImageUploadRetrive\\ImageUploadRetrive\\wwwroot\\images\\slider-1234127828.jpg",
+      "SourceId": "ImageUploadRetrive",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\ImageUploadRetrive\\ImageUploadRetrive\\wwwroot\\",
+      "BasePath": "_content/ImageUploadRetrive",
+      "RelativePath": "images/slider-1234127828.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\slider-1234127828.jpg"
     },
     {
       "Identity": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\ImageUploadRetrive\\ImageUploadRetrive\\wwwroot\\js\\site.js",

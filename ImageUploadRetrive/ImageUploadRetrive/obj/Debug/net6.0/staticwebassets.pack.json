@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\ImageUploadRetrive\\ImageUploadRetrive\\wwwroot\\images\\photo-3231533631.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-3231533631.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\ImageUploadRetrive\\ImageUploadRetrive\\wwwroot\\images\\slider-1234127828.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-1234127828.jpg"
+    },
+    {
       "Id": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\ImageUploadRetrive\\ImageUploadRetrive\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
