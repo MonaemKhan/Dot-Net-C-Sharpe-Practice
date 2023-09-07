@@ -23,14 +23,14 @@ using(var scope = app.Services.CreateScope()) // use this add data into InMemory
     if (!dbContext.EmployeeDetailsTable.Any()) // add value to employee details table
     {
         dbContext.EmployeeDetailsTable.AddRange(
-             new EmployeeDetails
-             {
-                 employeeId = 502030,
-                 employeeName = "Mehidi Hasan",
-                 employeeCode = "EMP320",
-                 employeeSalary = 50000,
-                 supervisorId = 502036,
-             },
+                 new EmployeeDetails
+                 {
+                     employeeId = 502030,
+                     employeeName = "Mehidi Hasan",
+                     employeeCode = "EMP320",
+                     employeeSalary = 50000,
+                     supervisorId = 502036,
+                 },
                 new EmployeeDetails
                 {
                     employeeId = 502031,
@@ -87,11 +87,12 @@ using(var scope = app.Services.CreateScope()) // use this add data into InMemory
         dbContext.EmployeeAttendenceTable.AddRange(
             new EmployeePresent
             {
+                //new add
                 employeeId = 502030,
                 attendenceDate = "2023-06-23", // 4 record
                 isPresent = 1,
                 isAbsent = 0,
-                isOffday = 0,
+                isOffday = 0, 
             },
             new EmployeePresent
             {
@@ -103,6 +104,7 @@ using(var scope = app.Services.CreateScope()) // use this add data into InMemory
             },
             new EmployeePresent
             {
+                //new add
                  employeeId = 502030,
                  attendenceDate = "2023-06-25",
                  isPresent = 0,
@@ -111,6 +113,7 @@ using(var scope = app.Services.CreateScope()) // use this add data into InMemory
             },
             new EmployeePresent
             {
+                //new add
                 employeeId = 502030,
                 attendenceDate = "2023-06-26",
                 isPresent = 0,
@@ -127,19 +130,21 @@ using(var scope = app.Services.CreateScope()) // use this add data into InMemory
             },
             new EmployeePresent
             {
-                 employeeId = 502034,
-                 attendenceDate = "2023-06-25", // 1 record
+                //new add
+                employeeId = 502034,
+                attendenceDate = "2023-06-25", // 1 record
                 isPresent = 1,
-                 isAbsent = 0,
-                 isOffday = 0,
+                isAbsent = 0,
+                isOffday = 0,
             },
             new EmployeePresent
             {
-                  employeeId = 502036,
-                  attendenceDate = "2023-06-25", // 1 record
+                //new add
+                employeeId = 502036,
+                attendenceDate = "2023-06-25", // 1 record
                 isPresent = 1,
-                  isAbsent = 0,
-                  isOffday = 0,
+                isAbsent = 0,
+                isOffday = 0,
             }
         );
         dbContext.SaveChanges();

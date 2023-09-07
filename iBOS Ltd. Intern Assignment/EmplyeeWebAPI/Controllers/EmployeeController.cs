@@ -161,12 +161,9 @@ namespace EmplyeeWebAPI.Controllers
                          orderby emp.employeeId
                          select new
                          {
-                            employeeId = emp.employeeId,
-                            employeeName = emp.employeeName,
-                            employeeCode = emp.employeeCode,
-                            employeeSalary = emp.employeeSalary,
-                            supervisorId = emp.supervisorId,
+                            employeeName = emp.employeeName,                            
                             monthName = at.Month,
+                            employeeSalary = emp.employeeSalary,
                             totalPresent = at.present,
                             totalAbsent = at.absent,
                             totalOffDay = at.offDay,
