@@ -10,10 +10,13 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+//useing InMemoryDatabase
 builder.Services.AddDbContext<DbConnectionContext>(option=>option.UseInMemoryDatabase("EmployeeDatabase")); // add database connection
 
 var app = builder.Build();
 
+// add database table value
 using(var scope = app.Services.CreateScope()) // use this add data into InMemoryDatabase
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<DbConnectionContext>();

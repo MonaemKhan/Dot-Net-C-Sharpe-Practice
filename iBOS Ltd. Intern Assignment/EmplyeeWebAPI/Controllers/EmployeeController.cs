@@ -32,10 +32,11 @@ namespace EmplyeeWebAPI.Controllers
                 //if employeeCode does not exit then try to update data
                 try
                 {
+                    // as per instruction update emp name and emp code
                     data.employeeName = emp.employeeName;
                     data.employeeCode = emp.employeeCode;
-                    data.employeeSalary = emp.employeeSalary;
-                    data.supervisorId = emp.supervisorId;
+                    //data.employeeSalary = emp.employeeSalary;
+                    //data.supervisorId = emp.supervisorId;                    
 
                     _context.Entry(data).State = EntityState.Modified;
                     await _context.SaveChangesAsync();
