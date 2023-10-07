@@ -1,8 +1,12 @@
 ﻿@model IEnumerable<MVC_PROJECT_PRACTICE.Models.Teacher>
 
-@{
-    ViewData["Title"] = "TeacherIndex";
+@if (ViewData["Role"] == "Student" || ViewData["Role"] == null)
+{
+    <h1>accesss</h1>
 }
+else
+{
+    ViewData["Title"] = "TeacherIndex";
 
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -94,3 +98,4 @@
         </tbody>
     </table>
 </div>
+}

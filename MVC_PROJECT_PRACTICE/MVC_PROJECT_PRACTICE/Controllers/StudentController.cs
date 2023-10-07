@@ -16,6 +16,7 @@ namespace MVC_PROJECT_PRACTICE.Controllers
 
         public async Task<ActionResult> StudentIndex()
         {
+            ViewData["Role"] = "Student";
             var data = await _context.StudentDetails.ToListAsync();
             return View(data);
         }
