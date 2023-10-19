@@ -1,0 +1,33 @@
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.deps.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.AssemblyInfoInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.AssemblyInfo.cs
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.csproj.CoreCompileInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\refint\Employee.Shared.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\ref\Employee.Shared.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.deps.json
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.AssemblyInfoInputs.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.AssemblyInfo.cs
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.csproj.CoreCompileInputs.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Shared\obj\Debug\net7.0\refint\Employee.Shared.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Shared\obj\Debug\net7.0\ref\Employee.Shared.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.deps.json
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.AssemblyInfoInputs.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.AssemblyInfo.cs
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.csproj.CoreCompileInputs.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Shared\obj\Debug\net7.0\refint\Employee.Shared.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Shared\obj\Debug\net7.0\ref\Employee.Shared.dll

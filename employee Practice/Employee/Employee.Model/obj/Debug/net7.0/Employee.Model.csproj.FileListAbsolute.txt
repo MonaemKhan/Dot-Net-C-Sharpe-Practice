@@ -1,0 +1,45 @@
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.deps.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.AssemblyReference.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfoInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfo.cs
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CoreCompileInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CopyComplete
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\obj\Debug\net7.0\refint\Employee.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Model\obj\Debug\net7.0\ref\Employee.Model.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.deps.json
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.AssemblyReference.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfoInputs.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfo.cs
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CoreCompileInputs.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CopyComplete
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\obj\Debug\net7.0\refint\Employee.Model.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Model\obj\Debug\net7.0\ref\Employee.Model.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.deps.json
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.AssemblyReference.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfoInputs.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfo.cs
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CoreCompileInputs.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CopyComplete
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\obj\Debug\net7.0\refint\Employee.Model.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Model\obj\Debug\net7.0\ref\Employee.Model.dll

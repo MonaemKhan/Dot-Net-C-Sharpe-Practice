@@ -1,0 +1,69 @@
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.deps.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.runtimeconfig.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.AssemblyReference.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfoInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfo.cs
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CoreCompileInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CopyComplete
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\obj\Debug\net7.0\refint\Employee.Repository.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.genruntimeconfig.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Repository\obj\Debug\net7.0\ref\Employee.Repository.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.deps.json
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.runtimeconfig.json
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.AssemblyReference.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfoInputs.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfo.cs
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CoreCompileInputs.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CopyComplete
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\obj\Debug\net7.0\refint\Employee.Repository.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.genruntimeconfig.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Repository\obj\Debug\net7.0\ref\Employee.Repository.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.deps.json
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.runtimeconfig.json
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.AssemblyReference.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfoInputs.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfo.cs
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CoreCompileInputs.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CopyComplete
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\obj\Debug\net7.0\refint\Employee.Repository.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.genruntimeconfig.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Repository\obj\Debug\net7.0\ref\Employee.Repository.dll

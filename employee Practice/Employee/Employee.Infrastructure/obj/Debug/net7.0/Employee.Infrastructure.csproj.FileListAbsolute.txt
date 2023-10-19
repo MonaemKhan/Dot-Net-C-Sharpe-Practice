@@ -1,0 +1,57 @@
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.deps.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.runtimeconfig.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Shared.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Model.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Shared.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.AssemblyReference.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfoInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfo.cs
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CoreCompileInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CopyComplete
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\obj\Debug\net7.0\refint\Employee.Infrastructure.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.genruntimeconfig.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Infrastructure\obj\Debug\net7.0\ref\Employee.Infrastructure.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.deps.json
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.runtimeconfig.json
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Model.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Shared.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Model.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Shared.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.AssemblyReference.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfoInputs.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfo.cs
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CoreCompileInputs.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CopyComplete
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\obj\Debug\net7.0\refint\Employee.Infrastructure.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.genruntimeconfig.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Infrastructure\obj\Debug\net7.0\ref\Employee.Infrastructure.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.deps.json
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.runtimeconfig.json
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Model.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Shared.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Model.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Shared.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfo.cs
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CopyComplete
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\refint\Employee.Infrastructure.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.genruntimeconfig.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\ref\Employee.Infrastructure.dll

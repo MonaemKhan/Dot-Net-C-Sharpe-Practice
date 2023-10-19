@@ -1,0 +1,81 @@
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.deps.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.runtimeconfig.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.AssemblyReference.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.GeneratedMSBuildEditorConfig.editorconfig
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfoInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfo.cs
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CoreCompileInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CopyComplete
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\refint\Employee.Ioc.Configaration.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.genruntimeconfig.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\ref\Employee.Ioc.Configaration.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.deps.json
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.runtimeconfig.json
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.AssemblyReference.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfoInputs.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfo.cs
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CoreCompileInputs.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CopyComplete
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\refint\Employee.Ioc.Configaration.dll
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.pdb
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.genruntimeconfig.cache
+F:\ASP DOT NET Training\Clean Architecture Final Class\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\ref\Employee.Ioc.Configaration.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.deps.json
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.runtimeconfig.json
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.AssemblyReference.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfoInputs.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfo.cs
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CoreCompileInputs.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CopyComplete
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\refint\Employee.Ioc.Configaration.dll
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.pdb
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.genruntimeconfig.cache
+C:\Users\khanm\OneDrive\Desktop\employee Practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\ref\Employee.Ioc.Configaration.dll
