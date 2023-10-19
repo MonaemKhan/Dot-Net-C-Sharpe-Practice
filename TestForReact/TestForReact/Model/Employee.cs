@@ -1,4 +1,6 @@
-﻿namespace TestForReact.Model;
+﻿using System.Text.Json.Serialization;
+
+namespace TestForReact.Model;
 
 public class Employee
 {
