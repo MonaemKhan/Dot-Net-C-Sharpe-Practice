@@ -23,8 +23,15 @@ public static class ServiceCollectionExtensions
 		services.AddTransient<ICountryRepository, CountryRepository>();
 
 
+
+
+
+
+
 		//services.AddMediatR(x => x.RegisterServicesFromAssemblies(typeof(ICore).Assembly));
 		services.AddValidatorsFromAssembly(typeof(ICore).Assembly);
+
+
 		services.AddMediatR(cfg =>
 		{
 			cfg.RegisterServicesFromAssemblies(typeof(ICore).Assembly);

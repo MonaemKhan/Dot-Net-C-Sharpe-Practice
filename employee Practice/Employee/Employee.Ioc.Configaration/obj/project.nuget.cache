@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T5cAn4aIU+K3YIEZeO6VDBkCWPoXlR/sjRc2DLPE+u15CM4hUWWVs8NpNPbkbQsxQ/+UWODmC9o/rgSHHqGYBA==",
+  "dgSpecHash": "WoMzMaW4l/9RitGJ50PZf9XhghKhkjWnuzZ94WXq7+zhXUKOp8WtDe5BZ+mK+xfkymIfACcVJVWZiqa643J2tQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\khanm\\OneDrive\\Desktop\\employee Practice\\Employee\\Employee.Ioc.Configaration\\Employee.Ioc.Configaration.csproj",
+  "projectFilePath": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\employee Practice\\Employee\\Employee.Ioc.Configaration\\Employee.Ioc.Configaration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khanm\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\khanm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

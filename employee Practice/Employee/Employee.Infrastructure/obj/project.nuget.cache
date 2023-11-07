@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NVDMbMbG56Vvepfc7TldwCrL4S+HYXm277OHZGvSZCsqZNnRxVx/3cxDH133X2WqmLcQ88ff/W+htvI1yeBiNQ==",
+  "dgSpecHash": "c9oAYjshxB3Un4YJ5Y7hAVvyy0d6LxikXChR6XMvLDYRvXl6PKQlDQIN1al8HoVvcpUt99YDUoYaJRgM0P6dbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\khanm\\OneDrive\\Desktop\\employee Practice\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\employee Practice\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khanm\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\khanm\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

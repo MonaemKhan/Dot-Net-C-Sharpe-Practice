@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N6XonnWt9iQ5p1DmbHndontMPbIY8bYI6YFAg4D67Z42LVpEcxOkaXEb5aN4qfaEuGod0b84VNckfKrLu+P2bg==",
+  "dgSpecHash": "5+YUbmlpGDHEUPJ31FGYV+Cl9XNKJfWK9yG+KNlnfauyvHUdQMHYEghTbAtSwirhzWvUA2ANx9h5nZbG38zIrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\khanm\\OneDrive\\Desktop\\employee Practice\\Employee\\Employee.Core\\Employee.Core.csproj",
+  "projectFilePath": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\employee Practice\\Employee\\Employee.Core\\Employee.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khanm\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\khanm\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

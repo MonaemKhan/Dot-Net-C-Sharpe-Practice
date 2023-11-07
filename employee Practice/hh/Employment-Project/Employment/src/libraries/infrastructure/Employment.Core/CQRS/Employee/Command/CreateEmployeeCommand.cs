@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-
 using Employment.Repositories.Interface;
 using Employment.Service.Models.ViewModel;
 using Employment.Sheared.Models;
