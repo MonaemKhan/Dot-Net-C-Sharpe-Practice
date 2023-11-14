@@ -66,3 +66,4 @@ C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\API_Practice\API_Pract
 C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.pdb
 C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.genruntimeconfig.cache
 C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\API_Practice\API_Practice\obj\Debug\net6.0\ref\API_Practice.dll
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.sourcelink.json

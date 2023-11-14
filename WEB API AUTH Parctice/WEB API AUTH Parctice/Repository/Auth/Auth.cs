@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json.Linq;
 using WEB_API_AUTH_Parctice.Model.AuthModel;
 using WEB_API_AUTH_Parctice.Repository.Token_Generator;
 

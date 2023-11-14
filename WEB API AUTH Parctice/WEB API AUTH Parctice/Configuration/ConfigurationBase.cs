@@ -84,6 +84,7 @@ public static class ConfigurationBase
             .AddTokenProvider<DataProtectorTokenProvider<IdentityUser>>("Monaem")
             .AddEntityFrameworkStores<AuthDbContext>()
             .AddDefaultTokenProviders();
+
         services.Configure<IdentityOptions>(options =>
         {
             options.Password.RequireDigit = false;

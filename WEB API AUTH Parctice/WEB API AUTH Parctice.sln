@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34219.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB API AUTH Parctice", "WEB API AUTH Parctice\WEB API AUTH Parctice.csproj", "{BE459FD4-79FF-40F5-8E9C-06CF0C58407E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WEB API AUTH Parctice", "WEB API AUTH Parctice\WEB API AUTH Parctice.csproj", "{BE459FD4-79FF-40F5-8E9C-06CF0C58407E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

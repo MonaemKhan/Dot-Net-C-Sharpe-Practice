@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WEB API AUTH Parctice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b555b063381b09e8d256653f25d15043c41f4b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WEB API AUTH Parctice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WEB API AUTH Parctice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
