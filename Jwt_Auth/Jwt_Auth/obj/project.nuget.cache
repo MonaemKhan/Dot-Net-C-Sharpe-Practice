@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4GH7KsuZnTA4fQ8SVlOmd3R/xdOO/xXCuxtRH9Lkb4yc/UE2kkRJ5wwnDtoyy18wIrrLQIQHA7+MqJOxqsB/Eg==",
+  "dgSpecHash": "qcPjZ4hKXEG2MJxIW62k2RAgK1cQq5DBr/siICgT97p1FvS+yXLnBuuAgzTxVRkNevq/jGLDPxpJxlV4GGZDzQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\khanm\\OneDrive\\Desktop\\Dot-Net-C-Sharpe-Practice\\Jwt_Auth\\Jwt_Auth\\Jwt_Auth.csproj",
   "expectedPackageFiles": [
@@ -74,7 +74,11 @@
     "C:\\Users\\khanm\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\khanm\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\khanm\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\khanm\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\khanm\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\khanm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.12\\microsoft.windowsdesktop.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\khanm\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\khanm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.12\\microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\khanm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.12\\microsoft.netcore.app.host.win-x64.7.0.12.nupkg.sha512"
   ],
   "logs": [
     {

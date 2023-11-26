@@ -2,7 +2,8 @@
 using API_Practice_01.Model;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Data;
+using System.Text;
+using System.Net.Mime;
 
 namespace API_Practice_01.Controllers
 {
@@ -12,10 +13,12 @@ namespace API_Practice_01.Controllers
     public class StudentController : Controller
     {
         private readonly DbConnetionContext _context;
+        private readonly IWebHostEnvironment _webHostEnvironment;
 
-        public StudentController(DbConnetionContext context)
+        public StudentController(DbConnetionContext context, IWebHostEnvironment webHostEnvironment)
         {
             _context = context;
+            _webHostEnvironment= webHostEnvironment;
         }
 
         [HttpPost]

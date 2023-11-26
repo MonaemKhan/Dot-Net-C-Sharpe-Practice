@@ -74,3 +74,4 @@ C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\TestForReact\TestForRe
 C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\TestForReact\TestForReact\obj\Debug\net7.0\TestForReact.pdb
 C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\TestForReact\TestForReact\obj\Debug\net7.0\TestForReact.genruntimeconfig.cache
 C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\TestForReact\TestForReact\obj\Debug\net7.0\ref\TestForReact.dll
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\TestForReact\TestForReact\obj\Debug\net7.0\TestForReact.sourcelink.json
