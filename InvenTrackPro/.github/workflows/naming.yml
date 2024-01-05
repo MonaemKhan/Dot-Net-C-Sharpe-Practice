@@ -1,0 +1,22 @@
+name: 'Assert Branch Naming Convention'
+on:
+  push:
+    branches:
+      - feature/*
+  pull_request:
+    branches: [ main ]
+    
+  workflow_dispatch:
+ 
+jobs:
+  branch-naming-rules:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: deepakputhraya/action-branch-name@master
+        with:
+          regex: '([a-z])+\/([a-z])+' # Regex the branch should match. This example enforces grouping
+          allowed_prefixes: 'feature,stable,fix' # All branches should start with the given prefix
+          ignore: master,main,develop,dev # Ignore exactly matching branch names from convention
+          min_length: 5 # Min length of the branch name
+          max_length: 70 # Max length of the branch name
+

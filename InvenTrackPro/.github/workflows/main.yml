@@ -1,0 +1,47 @@
+name: NET  🚀 Web App on push(Production)
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    # Sequence of patterns matched against refs/heads
+    branches:
+      - main
+      - "releases/**"
+      - "!dev"
+      - "!features/**"
+      - "!releases/**-alpha"
+
+  workflow_dispatch:
+
+env:
+  # Disable the .NET logo in the console output.
+  DOTNET_NOLOGO: true
+  # Disable the .NET first time experience to skip caching NuGet packages and speed up the build.
+  DOTNET_SKIP_FIRST_TIME_EXPERIENCE: true
+  # Disable sending .NET CLI telemetry to Microsoft.
+  DOTNET_CLI_TELEMETRY_OPTOUT: true
+  # Set the build number in MinVer.
+  MINVERBUILDMETADATA: build.${{github.run_number}}
+
+jobs:
+  build:
+    if: ${{ github.ref == 'refs/heads/main' }}
+    name: Build-${{matrix.os}}  by @${{ github.actor }}
+    runs-on: ${{matrix.os}}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest, macOS-latest]
+    steps:
+      - run: echo "Deploying to production server on branch ${{ github.ref_name }}"
+      - uses: actions/checkout@v3
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3.0.3
+        with:
+          dotnet-version: 7.0.x
+      - name: 🔃 Restore dependencies
+        run: dotnet restore
+        # dotnet build and publish
+      - name: 🔨 Build with dotnet  by @${{ github.actor }}
+        run: dotnet build   --no-restore --configuration Release

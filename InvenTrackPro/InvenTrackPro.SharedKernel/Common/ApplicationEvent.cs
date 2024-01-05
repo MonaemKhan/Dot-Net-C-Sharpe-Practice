@@ -1,0 +1,13 @@
+﻿using InvenTrackPro.SharedKernel.Common.BaseEntities;
+
+namespace InvenTrackPro.SharedKernel.Common;
+public class ApplicationEvent<T, Key> : DomainEventBase
+    where T : BaseEntity<Key>, new()
+{
+    public ApplicationEvent(T item)
+    {
+        Item = item;
+    }
+
+    public T Item { get; }
+}
