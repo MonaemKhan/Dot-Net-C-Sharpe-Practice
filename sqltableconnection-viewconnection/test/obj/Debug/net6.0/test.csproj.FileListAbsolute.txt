@@ -134,3 +134,4 @@ C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\sqltableconnection-vie
 C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\sqltableconnection-viewconnection\test\obj\Debug\net6.0\test.pdb
 C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\sqltableconnection-viewconnection\test\obj\Debug\net6.0\test.genruntimeconfig.cache
 C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\sqltableconnection-viewconnection\test\obj\Debug\net6.0\ref\test.dll
+C:\Users\khanm\OneDrive\Desktop\Dot-Net-C-Sharpe-Practice\sqltableconnection-viewconnection\test\obj\Debug\net6.0\test.sourcelink.json
