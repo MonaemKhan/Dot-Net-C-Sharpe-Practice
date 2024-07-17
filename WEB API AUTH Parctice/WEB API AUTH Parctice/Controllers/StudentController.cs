@@ -13,7 +13,7 @@ public class StudentController(IStudentRepository studentRepository) : Controlle
     private readonly IStudentRepository _studentRepository = studentRepository;
 
     [HttpGet]
-    [Authorize(Roles = "Writer")]
+    [Authorize(Roles = "Reader")]
     public async Task<IActionResult> GetAllStudent()
     {
         var data = await _studentRepository.GetAllAsync();
